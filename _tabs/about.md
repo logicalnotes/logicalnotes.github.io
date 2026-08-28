@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Logical Notes
-
 Welcome to **Logical Notes**, a personal knowledge‑focused blog.
 
 I share structured thinking, technical insights, and rational notes on learning, problem‑solving and self‑improvement.
