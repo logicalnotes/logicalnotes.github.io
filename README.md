@@ -18,13 +18,14 @@ This is a personal blog focusing on philosophy, love thoughts, spiritual reflect
 1. Create new .md file under _posts/ folder
    File name format: YYYY-MM-DD-post-title.md
 2. Write front-matter at top of file:
-
+```
 ---
 title: "Article Title"
 date: 2026-08-28 23:00:00
 categories: [category-name]
 tags: [tag1, tag2]
 ---
+```
 
 3. Write your article content in Markdown below front-matter
 4. Commit & push to main branch, GitHub Actions will auto build and deploy.
