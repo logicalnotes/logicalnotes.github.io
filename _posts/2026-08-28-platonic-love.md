@@ -1,11 +1,9 @@
 ---
-title: Platonic Love
+title: Platonic Love: The Uprising of Spirit, the Revelry of Reason
 date: 2026-08-28 23:00:00
 categories: [Philosophy and Psychology]
 tags: [Platonic Love, Philosophy of Love, Soul Connection, Plato, Spiritual Love, Philosophical Essay]
 ---
-
-# Platonic Love: The Uprising of Spirit, the Revelry of Reason
 
 Platonic love is an uprising of the spirit, a revelry of reason.
 
