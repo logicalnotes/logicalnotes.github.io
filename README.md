@@ -30,6 +30,16 @@ tags: [tag1, tag2]
 3. Write your article content in Markdown below front-matter
 4. Commit & push to main branch, GitHub Actions will auto build and deploy.
 
+## Project structure
+```
+logicalnotes.github.io/
+├─ _posts/               # All blog articles
+├─ _config.yml           # Blog main config
+├─ assets/               # Images, css, js
+├─ .github/workflows/    # GitHub Actions deploy script
+└─ README.md
+```
+
 ## Deployment
 - Use GitHub Actions to build Jekyll site
 - Publish to GitHub Pages
