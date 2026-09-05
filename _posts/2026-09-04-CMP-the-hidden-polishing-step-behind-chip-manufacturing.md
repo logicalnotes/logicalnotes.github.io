@@ -1,5 +1,5 @@
 ---
-title: CMP: The Hidden Polishing Step Behind Chip Manufacturing
+title: "CMP: The Hidden Polishing Step Behind Chip Manufacturing"
 date: 2026-09-04 23:00:00
 categories: [Industry and Market Analysis]
 tags: [CMP, chemical mechanical polishing, semiconductor manufacturing, wafer fabrication, advanced node chips, lithography, EUV, polishing slurry, polishing pad, semiconductor materials, integrated circuits, chip fabrication, industrial technology, semiconductor process]
