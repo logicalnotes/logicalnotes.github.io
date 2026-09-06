@@ -5,8 +5,6 @@ categories: [Industry and Market Analysis]
 tags: [Kevlar,aramid,advanced materials,industrial chemistry,material science,polymer science,high‑performance fiber,engineering materials]
 ---
 
-Every day, learn about one industry. Today we take a look at Kevlar.
-
 In this article, the data you are reading travels through optical cables wrapped in a layer of yellow fiber. That yellow fiber is aramid. It is five times stronger than steel yet lighter than water. When a bullet strikes it, kinetic energy dissipates across a web of fibers. It will not melt even when exposed to temperatures of four to five hundred degrees Celsius.
 
 This extraordinary material came into existence because a chemist refused to pour away a test‑tube of waste liquid.
