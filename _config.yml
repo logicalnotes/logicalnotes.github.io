@@ -235,5 +235,3 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
-
-post_end: post‑end.html
