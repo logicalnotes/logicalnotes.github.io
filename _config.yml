@@ -236,11 +236,6 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-panel:
-  panel_includes:
-    - toc
-    - post-end.html
-
 
 
 
