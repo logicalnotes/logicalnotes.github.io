@@ -203,6 +203,14 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: "_posts" # 只对_post目录下所有博客文章生效
+      type: posts
+    values:
+      tail_includes:
+        - related-posts
+        - post-nav
+        - post-end.html
 
 sass:
   style: compressed
@@ -235,3 +243,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+
+
