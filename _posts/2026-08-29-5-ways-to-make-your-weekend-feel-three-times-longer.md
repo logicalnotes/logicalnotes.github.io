@@ -43,6 +43,8 @@ Treat Sunday as your personal system‑maintenance day. Go for walks, listen to 
 
 When you adjust your state of mind, Monday will no longer feel overwhelming. Instead, you will have a strong sense of being in control.
 
+{% include post-foot.html %}
+
 Rest is not simply about recharging to work harder. It is about living with greater dignity.
 
 Give these five methods a go this weekend. You will see that life does not have to be draining, and your weekends can feel rich and peaceful.
