@@ -30,3 +30,5 @@ Though the tale of the old man and the windmills is fictional, the spirit of the
 Some sing unheard tunes at subway entrances; some send whistle‑blowing letters exposing wrongdoing in company group chats.
 
 Beneath all these ill‑timed acts, there may dwell a modern‑day Don Quixote, busily assembling his own suit of armor.
+
+{% include post-foot.html %}
