@@ -3,7 +3,7 @@
 
 ## About
 This is a personal blog focusing on philosophy, love thoughts, spiritual reflection and essay writing.
-- Blog site: https://logicalnotes.github.io/
+- Blog site: https://logicalnotes.org/
 - Theme: Chirpy (Jekyll)
 - Deploy: GitHub Actions + GitHub Pages
 
