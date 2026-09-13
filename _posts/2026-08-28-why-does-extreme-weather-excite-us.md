@@ -18,3 +18,5 @@ From an existentialist perspective, extreme weather resembles Heidegger’s noti
 Subconsciously, you sense these winds blowing from distant corners of the earth, and raindrops falling down from the clouds. Your vision expands infinitely. You truly grasp that you exist on this planet, within the universe — not merely inside man‑made cities. Only in these moments do you genuinely connect with all things.
 
 What thrills us is not the tempest itself, but the grit‑laden wind rushing through the cracks when the fabric of ordinary order splits open.
+
+{% include post-foot.html %}
