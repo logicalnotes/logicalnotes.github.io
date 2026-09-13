@@ -1,7 +1,7 @@
 ---
 title: "Why Jensen Huang Spent $12.9 Billion on a Free AI Website"
 date: 2026-09-08 23:00:00
-categories: [AI Strategy and Industry]
+categories: [Industry and Market Analysis]
 tags: [NVIDIA, Jensen Huang, Hugging Face, AI industry, open source AI, tech strategy, business monopoly, GPU computing, AI ecosystem, tech acquisition]
 ---
 
