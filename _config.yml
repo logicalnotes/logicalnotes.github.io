@@ -236,12 +236,5 @@ jekyll-archives:
     tag: /tags/:name/
     category: /categories/:name/
 
-layouts:
-  post:
-    tail_includes:
-      - kofi-tip
-      - related-posts
-      - post-nav
-
 
 
