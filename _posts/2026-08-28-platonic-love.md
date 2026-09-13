@@ -26,3 +26,5 @@ This detachment is not anti‑human, nor does it seek to deny reality. By stripp
 Throughout history, Dante’s gaze upon Beatrice, and the existential covenant between Sartre and de Beauvoir, are tangible manifestations of platonic love. Physical distance, paradoxically, gives rise to richer spiritual dialogue. When the mist of physical contact fades away, the radiance of the soul shines clearly.
 
 Others may love your body, your flawless looks. But what I love is your soul, still radiant even after enduring hardship. I love you for your spiritual self, for your one‑of‑a‑kind soul. It is a love of self‑restraint, a love that seeks to uplift the other. Such is platonic love.
+
+{% include post-foot.html %}
