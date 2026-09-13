@@ -1,7 +1,7 @@
 ---
 title: "How Claude's Invisible AI Watermark Hides in Plain Text"
 date: 2026-09-09 23:00:00
-categories: [AI Strategy and Industry]
+categories: [Industry and Market Analysis]
 tags: [AI watermarking, SynthID-Text, Claude, tournament sampling, generative AI, AI detection, EU AI Act, large language models, text watermark, probability sampling]
 ---
 
