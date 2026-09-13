@@ -61,3 +61,5 @@ When we talk about clean energy, we often treat the fossil fuel industry as an o
 But when industry needs reliable zero-carbon baseload power, wind and solar are held back by weather limits. The breakthrough that pushes clean energy forward comes from decades of oil and gas industry engineering refined in Texas and Oklahoma oilfields.
 
 The most powerful technological innovations rarely require reinventing the wheel from scratch. You just take proven industrial capabilities and aim them at a completely new goal.
+
+{% include post-foot.html %}
