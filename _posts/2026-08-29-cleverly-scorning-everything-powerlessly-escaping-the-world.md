@@ -27,3 +27,5 @@ What makes cynicism dangerous is not its tendency to question everything, but ho
 Many young people today grow accustomed to living amid cynical laughter and self‑deprecation. They mock ideals and question sincerity, seeming intelligent and perceptive. Quite a few people lean towards cynicism.
 
 At the end of the day, cynicism is merely a defensive shell formed after being hurt. True maturity is not to sneer at everything, but to strive for tiny glimmers of light even after witnessing life’s bleakness. To see the world for what it is, yet still choose to love life — that is a higher form of clarity than cynicism.
+
+{% include post-foot.html %}
