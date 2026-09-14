@@ -28,3 +28,5 @@ Mature love is not about picking the perfect person. It is about committing to y
 Only when you stop obsessing over whether someone better might come along can you experience deeper love.
 
 If you already have someone you care deeply about, hold tight to this beloved ear of wheat you have picked, and walk through the rest of the wheat‑field with your eyes closed.
+
+{% include post-foot.html %}
