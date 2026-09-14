@@ -20,3 +20,5 @@ Read works of psychology and philosophy, and you will encounter ideas that seem 
 Transformation happens only through acceptance. Admit your fragility instead of pretending to be invincible, and you will gain genuine strength. Acknowledge your fears instead of forcing yourself to be fearless, and you will slowly build courage to face hardship. Recognize your limits instead of demanding perfection from yourself, and you will unlock greater possibilities for growth.
 
 Emotional stability does not mean feeling nothing when storms hit. It means you do not force yourself to calm down instantly when waves of feeling rise. Do not bury negative emotions deep inside. Stop judging yourself for feeling angry or sad. See every emotion for what it is, accept your whole self, and give your inner experiences space to exist. When we stop burying our true selves, we finally reach a place of genuine composure and inner stability.
+
+{% include post-foot.html %}
