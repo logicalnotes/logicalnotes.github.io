@@ -20,3 +20,5 @@ Some might object: “What is the point of talking about something with no clear
 Yet this thought experiment has endured for two thousand years, not because it supplies a final solution, but because it forces us to confront the core nature of self‑identity. The identity of a thing does not have to depend on unchanging physical material. Instead, it can rest on continuity of function, history, or human perception. It also illustrates the dialectic between parts and the whole, objectivity and subjectivity.
 
 It reminds us that many seemingly simple questions reveal the limits of human understanding. Pushing against those limits deepens our comprehension of ourselves and the world around us.
+
+{% include post-foot.html %}
