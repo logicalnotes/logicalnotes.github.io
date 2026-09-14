@@ -27,3 +27,5 @@ Learning is another major domain where pragmatism prevails. Many people only wan
 Pragmatism cannot be simply labeled right or wrong. It is a rational response shaped by real‑world pressures and holds merit in many scenarios. Still, not everything should be judged merely by short‑term practical utility. Unchecked pragmatism can slide into utilitarianism, leading to emotional detachment, obsession with profit, and unscrupulous conduct.
 
 Pragmatism serves as a survival wisdom for modern society, yet it must be balanced by ideals, humanism and morality. We ought to acknowledge its contemporary value while recognizing its limitations. We should neither worship it blindly nor dismiss it outright. Treat pragmatism as a tool for solving real‑world problems. Grounded in practicality and guided by ideals — this is the real‑world philosophy that pragmatism offers us.
+
+{% include post-foot.html %}
