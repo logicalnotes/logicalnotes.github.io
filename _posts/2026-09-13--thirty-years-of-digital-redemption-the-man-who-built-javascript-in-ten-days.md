@@ -1,5 +1,5 @@
 ---
-title: "# Thirty Years of Digital Redemption: The Man Who Built JavaScript in Ten Days"
+title: "Thirty Years of Digital Redemption: The Man Who Built JavaScript in Ten Days"
 date: 2026-09-13 23:00:00
 categories: [Industry and Market Analysis]
 tags: [JavaScript, Brendan Eich, Brave Browser, surveillance capitalism, BAT, privacy, web history, AI ethics, programming, internet freedom]
