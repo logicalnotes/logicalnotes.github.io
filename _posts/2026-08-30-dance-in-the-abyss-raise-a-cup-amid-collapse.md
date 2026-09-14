@@ -17,3 +17,5 @@ In today’s fast‑paced world, we are constantly told to plan our work, keep o
 Still, the Dionysian spirit is not mere self‑indulgence or decadence. Nietzsche intended to remind us: life cannot consist solely of plans and rationality; it also calls for chaos and passion. Those who embrace the Dionysian spirit accept that we cannot control everything in life. Yet they dare to dance through suffering, and strike a balance between reason and passion amid humdrum routines.
 
 To live a rigid, predictable, rule‑bound existence is not life’s true meaning. True life is fervent, turbulent, painful, yet creative. It is like a drunken dance, where chaos mingles with order. This is the Dionysian spirit.
+
+{% include post-foot.html %}
