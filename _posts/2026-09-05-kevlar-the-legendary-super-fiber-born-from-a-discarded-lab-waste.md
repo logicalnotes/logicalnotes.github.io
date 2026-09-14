@@ -50,3 +50,5 @@ Another everyday‑yet‑unnoticed application is brake pads. Premium automotive
 Aramid downstream markets therefore feature high‑growth segments such as optical cables, steady‑consumption segments like brake pads, plus rigid demand for ballistic protection.
 
 Beginning with that un‑discarded test‑tube of liquid in 1965, humanity spent more than half a century bringing this ultra‑strong fiber from laboratory beakers into mass‑production factories.
+
+{% include post-foot.html %}
