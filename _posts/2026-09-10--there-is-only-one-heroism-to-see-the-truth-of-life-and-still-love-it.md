@@ -18,3 +18,5 @@ Camus offered a more absurd interpretation of heroism. In his writing, Sisyphus 
 Within these philosophical traditions, heroism means persisting after full awakening. It is the resolve to keep going in a world without God or ultimate meaning.
 
 Heroes are not merely carved on historical monuments. They live in every soul that chooses to strive upward. It is the lone courage to act even when success seems impossible; it is the stubbornness to press forward knowing how absurd the world can be. This seemingly foolish obstinacy is precisely how human beings seek hope amid adversity and discover greatness within the ordinary.
+
+{% include post-foot.html %}
