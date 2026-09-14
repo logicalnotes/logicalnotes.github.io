@@ -24,3 +24,5 @@ Let us circle back to our original question: Would you live up to your parents�
 The very act of reflecting on this question already sets you on the path toward freedom. You are re‑examining the relationship between others’ expectations and your true self.
 
 Freedom is not running away from your parents’ control. It is realizing that you always hold a choice. You may choose compliance, or you may choose resistance. What matters is whether the path aligns with who you truly want to be. You can certainly live up to your parents’ expectations — but only if that is also what you want for yourself.
+
+{% include post-foot.html %}
