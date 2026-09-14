@@ -51,3 +51,5 @@ For existentialists, death is not merely an ending. It sets the boundary of life
 Existentialism exerted profound and wide‑ranging influence over the history of philosophy. It overturned traditional metaphysical ways of thinking, and spread into literature, psychology, political thought and popular culture.
 
 To modern young people, existentialism is like a spiritual awakening. It helps you recognize the absurdity of the world without giving in to despair. It invites you to live consciously, authentically and fully. In an era where everyone strives to live “the right life”, it reminds you: live for what is real to you. You can feel anxious, lost or world‑weary. Even amid all that inner chaos, you can stand up and say: “Forget it, I’m going to the docks for some fries first.”
+
+{% include post-foot.html %}
