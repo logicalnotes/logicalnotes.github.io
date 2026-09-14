@@ -22,3 +22,5 @@ The philosophy advocates easing negative emotions through rational thinking to a
 Epictetus wrote: “Difficulty is what wakes up the genius.” It urges us to embrace whatever life throws our way. Since hardship cannot always be avoided, we may as well treat it as an opportunity for growth.
 
 In today’s anxious, hyper‑competitive world, Stoicism offers a sober yet resilient philosophy of life. It teaches us to separate the controllable from the uncontrollable and invest energy in our own judgements and actions. Faced with pressure, failure and public opinion, we preserve inner calm. We do not run from hardship, nor do we rely on external validation. We stay true to ourselves amid adversity. Even when everything outside seems to fall apart, we retain the capacity to keep our inner world steady.
+
+{% include post-foot.html %}
