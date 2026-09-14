@@ -26,3 +26,5 @@ Take this example: a young graduate rents an apartment after finishing universit
 He posts on social media: “I live in a humble place right now, yet I can eat well, bathe well and sleep well — and that is already happiness.”
 
 This illustrates rational hedonism. He is not brainwashed by consumerism that demands only the best. He makes sensible, adequate choices. He avoids mindless comparison, refuses to tie the beauty of life to the price of possessions, and actively seeks happiness within his limited circumstances.
+
+{% include post-foot.html %}

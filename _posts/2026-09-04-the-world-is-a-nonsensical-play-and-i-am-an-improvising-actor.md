@@ -22,3 +22,5 @@ This is exactly what Camus meant: humanity craves clear answers, but the world o
 Absurdism urges us to face this absurdity with clarity. Even when our future is riddled with unknowns, we should do our utmost to make choices that suit us in the present moment.
 
 Absurdism tells us that confronting life’s absurdity head‑on is the way forward. We ought not to be chained by the pursuit of ultimate meaning. If life comes with no pre‑assigned meaning, we gain greater freedom to decide how we want to live. This frees us from the compulsion to “find meaning”, and shifts our focus toward: who do I want to be? How do I experience the present? The world may be meaningless, yet we can respond to it with our own attitude. Precisely because the world carries no inherent meaning, every choice we make and every passion we hold becomes extraordinarily precious.
+
+{% include post-foot.html %}

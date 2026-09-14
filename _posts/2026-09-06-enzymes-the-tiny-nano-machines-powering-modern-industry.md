@@ -38,3 +38,5 @@ This shifts the industry’s competitive moat. Previously, whoever owned the bes
 Today enzymes are best‑known for cleaning shirt collars. Tomorrow they may convert plastic bottles back into industrial feedstock, turn agricultural straw waste into jet fuel, or design pharmaceuticals activated exclusively inside human livers. All these applications have already been proven in laboratory settings.
 
 Starting from crude pig‑pancreas extracts in 1941, humanity has spent more than 80 years transforming enzymes from slaughter‑house waste into editable nano‑machines.
+
+{% include post-foot.html %}

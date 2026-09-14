@@ -40,3 +40,5 @@ This echoes Microsoft’s iconic $7.5 billion acquisition of GitHub in 2018. The
 For NVIDIA, a firm with tens of billions in annual net profit, the $12.9 billion purchase is not merely a financial investment. It is a high-value insurance policy, locking up dominance over global AI computing distribution for the next decade.
 
 The fiercest battles in tech and business are never fought on spec sheets. Top-tier industry players build unbreakable tollgate monopolies — then fund and build free, open, accessible highways that lead every user directly to their tollgate.
+
+{% include post-foot.html %}

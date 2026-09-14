@@ -26,3 +26,5 @@ Sartre stated: “Existence precedes essence.” We shape who we are through our
 “Hell is other people” serves as a reminder: in our relationships, we should shift away from being defined by others toward self‑definition. Do not let other people’s opinions chain you. You hold endless possibilities. Define your authentic self through your own choices and actions. Break the mental cage constructed by others, and embrace your authenticity and freedom.
 
 The real hell is not other people. It is the self that willingly abandons freedom and submits to the gaze of others. That is the philosophical truth behind “Hell is other people”.
+
+{% include post-foot.html %}

@@ -42,3 +42,5 @@ The regulation mandates machine-readable identification for all outputs from gen
 
 Most people search for anti-counterfeit labels on the surface of text.
 The real technical solution never touches raw characters. Instead, it engraves the marker directly into the probability distribution of language generation itself.
+
+{% include post-foot.html %}

@@ -46,3 +46,5 @@ Battery manufacturers compete for feedstock, and fertilizer producers compete fo
 Batteries and food share the same mineral deposits. A century‑old phosphorus industrial chain has been completely upended by the explosive growth of LFP. Once written off as outdated technology, LFP has become the workhorse of global electric‑vehicle sales. Until solid‑state batteries achieve large‑scale commercialization, LFP will keep consuming growing volumes of phosphate rock.
 
 Humans did not arbitrarily choose phosphorus for batteries. Phosphorus is fundamental to life itself: it builds bones, forms DNA, and now powers the heart of our electric‑energy civilization.
+
+{% include post-foot.html %}

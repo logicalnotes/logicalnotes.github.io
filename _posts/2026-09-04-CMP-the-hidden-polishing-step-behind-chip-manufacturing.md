@@ -28,3 +28,5 @@ The technical challenges continue to evolve. Silicon‑carbide substrates are 2.
 The CMP industrial chain has two core segments. Upstream work covers abrasive materials and chemical formulation: producing perfectly uniform nanoparticles, tuning chemical components to achieve target material selectivity, and solving multi‑variable optimization problems. Downstream lies wafer‑fab process integration.
 
 Chip stacking, 3D packaging, through‑silicon‑via technology for HBM, and silicon‑carbide capacity expansion are driving rising CMP demand. Global semiconductor capital expenditure exceeded 180 billion US dollars in 2025. Every new fab generates substantial orders for CMP consumables. Lithography, etching, and thin‑film deposition are widely recognized as the foundational pillars of chip manufacturing. For decades, global industry attention has focused heavily on these systems. Yet before these structures can be built, the ground must first be leveled. CMP polishes far more than silicon wafers — it polishes the foundational bedrock of the semiconductor industry.
+
+{% include post-foot.html %}

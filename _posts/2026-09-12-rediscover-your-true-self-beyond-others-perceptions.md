@@ -23,3 +23,5 @@ Back when Cooley developed this theory, the looking‑glass self mostly took sha
 The perspective of others’ scrutiny has become a default mental pattern for our brains. Frequently, when doing something, our first consideration is how we will be viewed, instead of asking whether we genuinely enjoy it.
 
 Cooley’s theory of the looking‑glass self delivers a vital insight: in this highly connected era, we are extremely vulnerable to outside evaluations and end up living under the imagined gaze of others. Understanding this theory is not meant to dismiss the value of other people’s viewpoints. Instead, it helps us recognize our authentic selves with greater clarity. We should realize that many labels defining us are essentially mirrors projected by society. True growth perhaps begins the moment we see through this mirror — moving from living as the “self” others perceive, toward living as the “self” we see within.
+
+{% include post-foot.html %}
