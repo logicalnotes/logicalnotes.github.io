@@ -54,3 +54,5 @@ Of the three links, mining is the most vulnerable. Challenges in eastern DRC ext
 A metal unknown to most people forms a three‑link industrial chain. One end connects to mine pits in eastern DRC, the other to power supplies inside consumer‑device motherboards. Any crack along the chain sends shockwaves through the entire electronics sector.
 
 It is neither the most expensive nor the most glamorous metal, yet it functions as the delicate, critical fuse underpinning modern electronics.
+
+{% include post-foot.html %}
