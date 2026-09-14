@@ -18,3 +18,5 @@ What does this mean? Here is one way to understand it: even if the world appears
 Some accuse Camus of romanticizing suffering. To me, however, he offers us a way to face reality bravely. We may know certain endeavours hold no inherent meaning, yet we choose to pursue them anyway — and forge our own stance in the process. Much like persisting, even when you know hard work may not guarantee rewards.
 
 Sisyphus is a mythological figure, yet far more than that. He could be you. He could be me. He could be every person clinging on through life, refusing to give in even amid hardship.
+
+{% include post-foot.html %}
