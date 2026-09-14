@@ -45,3 +45,5 @@ Consumer electronics opened the door. Data centers are next. On‑board vehicle 
 In 2026, a leading wafer foundry announced plans to exit GaN power‑device manufacturing, opening a large gap in global supply. onsemi has partnered with GlobalFoundries for joint development. Infineon acquired Gaian Systems for $830 million. Speed is everything. Whoever masters high‑yield 8‑inch production and drives down costs will secure a ticket for the next decade.
 
 Gallium nitride was first discovered in laboratories back in the 1970s, originally for blue‑light‑emitting diodes (LEDs). No one could foresee that, half a century later, this same crystal would reshape global power systems. From cool‑running wall chargers, to power amplifiers inside 5G base stations overhead, to 12 kW power units deep inside data‑center server rooms, GaN is embedding itself into every power‑delivery artery of the modern world.
+
+{% include post-foot.html %}
