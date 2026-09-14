@@ -75,3 +75,5 @@ Thorium reactors act more like gas stoves: operating at ambient pressure, capabl
 This technological seed, locked away by Cold‑War‑era priorities for 70 years, is now sprouting once more.
 
 Over the past two centuries, humanity has made three great leaps in energy: burning coal, harnessing steam, and splitting the atomic nucleus. Every great energy breakthrough brings risk and fear, yet humanity has never stopped exploring.
+
+{% include post-foot.html %}
