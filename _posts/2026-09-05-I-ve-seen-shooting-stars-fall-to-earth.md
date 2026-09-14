@@ -16,3 +16,5 @@ For Romantics, not all truths are found inside laboratories. Some truths grow ou
 From Novalis’s murmurs to Hugo’s outcries, from Liszt’s musical strains to Turner’s sunsets, they all proclaimed: humans are not merely rational creatures. We are sparks of emotion, vessels of the infinite.
 
 Romanticism urges us to live tenderly, passionately and authentically in a cold, mechanical world. If the world is a cold, rational clockwork, Romanticism is a wild weed jamming its gears — making time bloom for its sake.
+
+{% include post-foot.html %}
