@@ -22,3 +22,5 @@ The optimal mental state lies in this flexible mindset of non‑attachment to fi
 As F. Scott Fitzgerald put it: “The test of a first‑rate intelligence is the ability to hold two opposed ideas in the mind at the same time, and still retain the ability to function.”
 
 Truly robust minds do not demand permanent certainty. They dare to accommodate contradictions and keep living fully amid uncertainty.
+
+{% include post-foot.html %}
