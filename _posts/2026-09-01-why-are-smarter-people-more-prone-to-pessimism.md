@@ -26,3 +26,5 @@ The sharper one’s mind, the clearer one sees the truths of the world and human
 Many dismiss pessimism as useless, but that is far from true. Pessimism offers us a clearer, more rational lens for understanding the world. It compels us to confront harsh reality and curb blind optimism, so we do not sink into deeper despair when our illusions shatter. It does not urge us to give up; it encourages us to prepare for the worst‑case scenarios. When setbacks strike, we will not fall apart. If things turn out well instead, we are met with unexpected relief.
 
 Pessimism is not the destination of life, but a pragmatic starting point. Acknowledge that the world is imperfect, accept that effort does not always yield rewards — and still choose to move forward. That may well be the calmest and bravest attitude one can take toward life.
+
+{% include post-foot.html %}
