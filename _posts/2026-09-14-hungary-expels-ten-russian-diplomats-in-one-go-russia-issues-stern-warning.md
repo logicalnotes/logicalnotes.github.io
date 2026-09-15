@@ -1,7 +1,7 @@
 ---
 title: "Hungary Expels Ten Russian Diplomats in One Go, Russia Issues Stern Warning"
 date: 2026-09-14 23:00:00
-categories: [Geopolitics & International Affairs]
+categories: [Geopolitics and International Affairs]
 tags: [hungary russia, diplomacy expulsion, geopolitics, international affairs]
 ---
 
