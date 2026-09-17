@@ -63,8 +63,8 @@ Society tends to ostracise anyone who deviates from the norm and labels them an 
 
 Most people live divided lives: their actions seldom align with their inner desires. They fear alienation, rejection and loneliness.
 
-{% include post-foot.html %}
-
 *The Stranger* does not teach us how to fit into the world. It asks a vital question: when rules, expectations and social masks wrap us layer after layer, will anyone dare, like Meursault, to stay faithful to their authentic self?
 
 As Camus wrote: the absurd cannot be eliminated, yet we gain freedom the moment we face it head‑on.
+
+{% include post-foot.html %}
