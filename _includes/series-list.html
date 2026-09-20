@@ -1,13 +1,24 @@
 {% if page.series_name %}
 {% assign series_posts = site.posts | where_exp:"item", "item.series_name == page.series_name" | sort: "series_part" %}
+{% assign current_idx = series_posts | map: "url" | index_of: page.url %}
+{% assign prev_post = series_posts[current_idx - 1] %}
+{% assign next_post = series_posts[current_idx + 1] %}
 
 <div>
-  <h3>{{ page.series_name }}</h3>
+  <h3>📚 {{ page.series_name }}</h3>
+  <div style="display:flex;gap:1rem;margin-bottom:1rem;flex-wrap:wrap;">
+    {% if prev_post %}
+    <a href="{{ prev_post.url }}">← Previous: {{ prev_post.title }}</a>
+    {% endif %}
+    {% if next_post %}
+    <a href="{{ next_post.url }}">Next: {{ next_post.title }} →</a>
+    {% endif %}
+  </div>
   <ol>
     {% for p in series_posts %}
     <li {% if p.url == page.url %}style="font-weight:bold"{% endif %}>
       <a href="{{ p.url }}">{{ p.series_part }}. {{ p.title }}</a>
-      {% if p.url == page.url %}<span>（本文）</span>{% endif %}
+      {% if p.url == page.url %}<span> (Current)</span>{% endif %}
     </li>
     {% endfor %}
   </ol>
