@@ -1,0 +1,15 @@
+{% if page.series_name %}
+{% assign series_posts = site.posts | where_exp:"item", "item.series_name == page.series_name" | sort: "series_part" %}
+
+<div>
+  <h3>{{ page.series_name }}</h3>
+  <ol>
+    {% for p in series_posts %}
+    <li {% if p.url == page.url %}style="font-weight:bold"{% endif %}>
+      <a href="{{ p.url }}">{{ p.series_part }}. {{ p.title }}</a>
+      {% if p.url == page.url %}<span>（本文）</span>{% endif %}
+    </li>
+    {% endfor %}
+  </ol>
+</div>
+{% endif %}
