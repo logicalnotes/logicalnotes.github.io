@@ -3,7 +3,7 @@ title: "The National‑Insurance Card Trap — the Aristocrat and the Vulnerable
 date: 2026-09-20 23:00:00
 categories: [Stories and History]
 tags: [Norman Scott, Jeremy Thorpe affair, 1960s Britain, blackmail risk, hidden queer relationships]
-series_name: "British political scandal, Jeremy Thorpe, 1970s UK politics, gay political secret, North Devon"
+series_name: "The Thorpe Affair: Britain’s Most Scandalous Political Soap‑Opera"
 series_part: 2
 ---
 
