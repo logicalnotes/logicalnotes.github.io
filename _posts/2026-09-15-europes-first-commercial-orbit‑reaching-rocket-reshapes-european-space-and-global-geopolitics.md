@@ -1,8 +1,8 @@
 ---
 title: "Europe’s First Commercial Orbit‑Reaching Rocket Reshapes European Space and Global Geopolitics"
 date: 2026-09-15 23:00:00
-categories: [Geopolitics and International Affairs]
-tags: [Isar Aerospace, Spectrum rocket, European space, NewSpace, space geopolitics, launch autonomy]
+robots: noindex,nofollow
+sitemap: false
 ---
 
 Germany‑based startup Isar Aerospace’s Spectrum rocket lifted off successfully from Andøya Spaceport in Norway and reached orbit, becoming the first commercially operated launch vehicle from mainland Europe to achieve orbital flight. More than a technical milestone, this breakthrough carries far‑reaching implications for Europe’s strategic autonomy and the global geopolitical landscape of space. Its significance can be analysed from both European and global perspectives.
