@@ -2,8 +2,8 @@
 title: "The Rainy‑Night Moor Shooting and an Ambitious Aristocrat’s Rise"
 date: 2026-09-20 23:00:00
 categories: [Stories and History]
-tags: [true crime, french history, heist, albert spaggiari, riviera, crime biography]
-series_name: "British political scandal, Jeremy Thorpe, 1970s UK politics, gay political secret, North Devon"
+tags: [British political scandal, Jeremy Thorpe, North Devon]
+series_name: "The Thorpe Affair: Britain’s Most Scandalous Political Soap‑Opera"
 series_part: 1
 ---
 
