@@ -23,8 +23,8 @@ Nihilism can drain your will to act, pushing you toward cynicism, self‑denial 
 
 Nihilism is not the end of reflection. Rather, it is a prelude to insight, the darkest hour before dawn. It invalidates every thought and deed you hold dear. Still, turning back to lived experience strips away worldly utilitarian urges and ingrained social mindsets.
 
-{% include post-foot.html %}
-
 Ask yourself: what still matters deeply to you? When you act free from the expectations of others, from fame, gain, social norms or dogma, you reach a state of awakening. Whether you choose to do something or not springs from within, not external pressures. That is when you hear the authentic voice of your soul.
 
 One final thought: Don’t fall into the trap of nihilism. You are meaning itself.
+
+{% include post-foot.html %}
