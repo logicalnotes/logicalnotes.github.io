@@ -3,6 +3,8 @@ title: "Albania’s Bizarre Odyssey"
 date: 2026-09-26 23:00:00
 categories: [Stories and History]
 tags: [Albania, Enver Hoxha, Cold War history, Balkan history, Ponzi scheme, bunkers, isolationism, European history]
+series_name: "Albania Stories of Financial and Social Unrest"
+series_part: 1
 ---
 
 This is a remarkable story.
