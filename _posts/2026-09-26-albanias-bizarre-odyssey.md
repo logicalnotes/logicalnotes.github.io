@@ -3,6 +3,8 @@ title: "Albania’s Bizarre Odyssey"
 date: 2026-09-26 23:00:00
 categories: [Stories and History]
 tags: [Albania, Enver Hoxha, Cold War history, Balkan history, Ponzi scheme, bunkers, isolationism, European history]
+series_name: "Albania Stories of Financial and Social Unrest"
+series_part: 1
 ---
 
 This is a remarkable story.
@@ -55,4 +57,5 @@ In 1919, Charles Ponzi devised a financing scheme in Boston, USA. He claimed he 
 
 For a hundred years, Ponzi schemes have repeatedly resurfaced in different forms, always ending in collapse. But in Albania, the Ponzi scheme reached its most destructive historical peak. Albania’s tragedy showed the world just how much damage such a scam could inflict.
 
+{% include series-list.html %}
 {% include post-foot.html %}
