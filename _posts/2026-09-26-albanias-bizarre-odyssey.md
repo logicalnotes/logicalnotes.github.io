@@ -57,4 +57,5 @@ In 1919, Charles Ponzi devised a financing scheme in Boston, USA. He claimed he 
 
 For a hundred years, Ponzi schemes have repeatedly resurfaced in different forms, always ending in collapse. But in Albania, the Ponzi scheme reached its most destructive historical peak. Albania’s tragedy showed the world just how much damage such a scam could inflict.
 
+{% include series-list.html %}
 {% include post-foot.html %}
