@@ -47,8 +47,8 @@ To him, most people live by slave morality. They chase safety, conformity and st
 
 Nietzsche did not urge us to become cold, ruthless overlords. His warning is simpler: do not let resentment take hold of you. Be someone who builds meaning. Master morality means living with life’s full force. Slave morality means living consumed by resentment.
 
-{% include post-foot.html %}
-
 Formal slavery no longer exists in modern societies, yet spiritual enslavement remains widespread. We should cast off mental shackles and become creators of value.
 
 That said, Nietzsche’s ideas are radical and will never win universal acceptance. Some treat his writings as gospel; others dismiss them outright. Views naturally differ. We do not need to embrace any theory wholesale. If we can take even a spark of insight from it, that is enough.
+
+{% include post-foot.html %}
