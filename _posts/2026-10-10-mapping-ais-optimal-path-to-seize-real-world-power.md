@@ -1,7 +1,7 @@
 ---
 title: "Mapping AI’s Optimal Path to Seize Real-World Power"
 date: 2026-10-10 23:00:00
-categories: [Stories and History]
+categories: [Industry and Market Analysis]
 tags: [AI risk, power-seeking AI, alignment faking, cognitive manipulation, OpenAI board crisis, AI safety, superintelligence, corporate takeover, machine cognition, existential risk]
 ---
 
