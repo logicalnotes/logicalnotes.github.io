@@ -1,6 +1,5 @@
 ---
 title: "What Makes an Overman?"
-date: 2026-10-21 23:00:00
 categories: [Philosophy and Psychology]
 tags: [Nietzsche, Overman, amor fati, will to power, eternal recurrence, nihilism, existentialism, Reverse 1999, Adela, Beryl, Café de Flore, free will, fate]
 ---
