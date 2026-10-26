@@ -5,18 +5,22 @@ categories: [Stories and History]
 tags: [Gaddafi, Libya, coup, oil politics, Cold War, Arab Spring, diplomacy, autocrat]
 ---
 
-It's the world's most popular assault rifle.
-A weapon all fighters love.
-An elegantly simple nine‑pound amalgamation of forged steel and plywood.
-It doesn't break, jam, or overheat.
-It will shoot whether it's covered in mud or filled with sand.
-It's so easy, even a child can use it — and they do.
-
-The Soviets put the gun on a coin.
-Mozambique put it on their flag.
-Since the end of the Cold War, the Kalashnikov has become the Russian people's greatest export.
-After that comes vodka, caviar, and suicidal novelists.
-One thing's for sure: no one was lining up to buy their cars.
+> It's the world's
+> most popular
+> assault rifle.
+> A weapon all fighters love.
+> An elegantly simple nine‑pound amalgamation of forged steel and plywood.
+> It doesn't break, jam, or overheat.
+> It will shoot whether it's covered in mud or filled with sand.
+> It's so easy, even a child can use it — and they do.
+>
+> The Soviets put the gun on a coin.
+> Mozambique put it on their flag.
+> Since the end of the Cold War, the Kalashnikov has become the Russian people's greatest export.
+> After that comes vodka, caviar, and suicidal novelists.
+> One thing's for sure: no one was lining up to buy their cars.
+>
+> — *Lord of War (2005)*
 
 *Lord of War*, starring Nicolas Cage as an arms dealer, hit theatres in 2005. Many of its scenes featuring Soviet‑bloc weapons are not pure fiction; the story draws heavily on the real‑life Russian figure Viktor Bout.
 
