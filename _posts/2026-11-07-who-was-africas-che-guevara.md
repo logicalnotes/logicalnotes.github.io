@@ -1,5 +1,5 @@
 ---
-title: "# Who Was Africa’s Che Guevara?"
+title: "Who Was Africa’s Che Guevara?"
 date: 2026-11-07 23:00:00
 categories: [Stories and History]
 tags: [Thomas Sankara, Burkina Faso, African history, anti-colonialism, Blaise Compaoré, Upper Volta, African revolution, neocolonialism]
@@ -277,4 +277,5 @@ On March 2, 2019, a statue of Thomas Sankara was unveiled in Ouagadougou, the ca
 
 Beyond that statue, almost nothing remains of what Sankara built. The statue stands as the last flicker of hope in a desperately poor country. No one knows if there will ever be another leader like him. He might come tomorrow — or he might never come at all.
 
+{% include series-list.html %}
 {% include post-foot.html %}
