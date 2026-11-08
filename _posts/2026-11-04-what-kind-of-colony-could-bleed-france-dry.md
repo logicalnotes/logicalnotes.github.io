@@ -3,6 +3,8 @@ title: "What kind of colony could bleed France dry?"
 date: 2026-11-04 23:00:00
 categories: [Stories and History]
 tags: [burkina faso, upper volta, thomas sankara, maurice yaméogo, sangoulé lamizana, saye zerbo, french colonialism, neo-colonialism, west africa, cold war aid, african history]
+series_name: "Tales of Burkina Faso"
+series_part: 1
 ---
 
 On June 20, 2021, American actress Angelina Jolie visited a refugee camp in Africa in her capacity as a UNHCR Special Envoy.
@@ -139,4 +141,5 @@ You may have noticed one big unanswered question: how did the Republic of Upper 
 
 In local languages, Burkina Faso means “Land of the Upright People.” The man who pushed for this name change and gave the nation its soul was Thomas Sankara.
 
+{% include series-list.html %}
 {% include post-foot.html %}
