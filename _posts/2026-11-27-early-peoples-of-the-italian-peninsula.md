@@ -1,5 +1,5 @@
 ---
-title: "Early Peoples of the Italian Peninsula
+title: "Early Peoples of the Italian Peninsula"
 date: 2026-11-27 23:00:00
 categories: [Civilizations and Empires]
 tags: [ancient Italy, Roman origins, Villanovan culture, Iapygians, Etruscans, Italic peoples, Samnites, Magna Graecia, Greek colonies, Theodor Mommsen, ancient Mediterranean]
